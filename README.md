@@ -1,3 +1,12 @@
+
+Home Page:
+
+![image](https://github.com/user-attachments/assets/54454f5d-6372-4b2d-9968-17afbb0327c2)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
